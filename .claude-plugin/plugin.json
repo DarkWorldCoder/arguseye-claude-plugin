@@ -1,0 +1,22 @@
+{
+  "name": "arguseye",
+  "displayName": "Arguseye",
+  "version": "0.0.7",
+  "description": "Preview React, browser-renderable Next.js and Vue components from project source. Inspect screenshots, accessibility text and before/after evidence without starting the app.",
+  "author": {
+    "name": "Ayush Niroula"
+  },
+  "homepage": "https://darkworldcoder.github.io/arguseye/",
+  "repository": "https://github.com/DarkWorldCoder/arguseye",
+  "license": "MIT",
+  "keywords": [
+    "development",
+    "frontend",
+    "react",
+    "vue",
+    "visual-diff"
+  ],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://darkworldcoder.github.io/arguseye/claude-code-ui.html",
+  "supportUrl": "https://github.com/DarkWorldCoder/arguseye/issues"
+}

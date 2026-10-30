@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "arguseye": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@ayushniroula/arguseye@0.0.7",
+        "mcp",
+        "--root",
+        "${CLAUDE_PROJECT_DIR}"
+      ]
+    }
+  }
+}
