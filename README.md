@@ -2,7 +2,7 @@
 
 See a component, edit its source, and inspect the consequences without starting the application or writing stories. Arguseye renders actual React, browser-renderable Next.js and Vue 3 components with the project’s own packages. It returns screenshots, accessibility text, resolved inputs, warnings and errors.
 
-This is a local review candidate. It is not listed in Anthropic’s directory and has not been submitted. The rendering engine, `@ayushniroula/arguseye@0.0.7`, is published on npm.
+This source is published for review. It is not listed in Anthropic’s directory and has not been submitted. The rendering engine, `@ayushniroula/arguseye@0.0.7`, is published on npm.
 
 [Product](https://darkworldcoder.github.io/arguseye/) · [Technical walkthrough](https://darkworldcoder.github.io/arguseye/claude-code-ui.html) · [Engine source](https://github.com/DarkWorldCoder/arguseye)
 
@@ -50,5 +50,7 @@ Runtime-only props, missing providers, unsettled assets, unsupported Next.js ser
 The VS Code visual panel is a separate installation from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=ayushniroula.arguseye).
 
 ## Support and license
+
+[Privacy and data handling](PRIVACY.md).
 
 [Report a problem](https://github.com/DarkWorldCoder/arguseye/issues), including the returned errors and warnings with private values removed. The plugin and engine are MIT-licensed. Created by Ayush Niroula.
